@@ -1,0 +1,1 @@
+Jak widać na wykresach wraz ze wzrostem węzłów interpolacja wielomianowa nie zawsze się zbiega. Jest obserwowalny efekt Rungego. Natomiast interpolacja trygonometryczna zbiega się. Oznacza to, że jest bardziej odporna na efekt Rungego.

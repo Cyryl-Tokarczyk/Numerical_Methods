@@ -1,0 +1,3 @@
+Najdokładniejsza jest metoda Simpsona, w ogólności najmniej dokładna jest metoda Monte Carlo, przy czym jej dokładność jest nieprzewidywalna.
+
+Jeśli chodzi o prędkość wykonania, to metoda prostokątów jest porównywalna do metody Monte Carlo. Najwolniejsza jest metoda Simpsona.

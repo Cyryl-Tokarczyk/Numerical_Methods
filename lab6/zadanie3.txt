@@ -1,0 +1,1 @@
+W tym przypadku lepiej będzie użyć aproksymacji, ponieważ poszczególne punkty nie są dokładnym położeniem drona. Nie chcemy więc, żeby nasza funkcja koniecznie przez nie przechodziła, bo nie są one faktyczną trajektorią drona.

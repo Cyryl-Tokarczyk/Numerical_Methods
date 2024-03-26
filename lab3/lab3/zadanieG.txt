@@ -1,0 +1,1 @@
+Dla metody bezpośredniej norma błędu rezydualnego wynosi 7.0729e-13, dla metod iteracyjnych zmierza ona do nieskończoności. To, że norma błędu zmierza do nieskończoności, oznacza, że metody iteracyjne nie zbiegają się. Niestety nie są one uniwersalne i wymagają one macierzy o odpowiednich właściwościach.

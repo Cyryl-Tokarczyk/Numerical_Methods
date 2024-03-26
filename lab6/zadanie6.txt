@@ -1,0 +1,7 @@
+a)
+
+Wyniki interpolacji i aproksymacji w takim przypadku będą identyczne, ze względu na to, że tworzymy tę samą ilość węzłów.
+
+b)
+
+Jak widać na wykresie błędu dla aproksymacji trygonometrycznej efekt Rungego na danym przedziale nie występuje.

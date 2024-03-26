@@ -1,0 +1,7 @@
+a)
+
+Najszybsza okazała się metoda Gaussa-Seidla, jest ona około 50 razy szybsza od metody bezpośredniej i około dwa razy szybsza od metody Jacobiego.
+
+b)
+
+Metoda Gaussa-Seidla potrzebuje mniej iteracji, żeby zbiec się do poprawnego wyniku. Potrzebuje około dwa razy mniej iteracji od metody Jacobiego.

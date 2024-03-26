@@ -1,0 +1,1 @@
+Jak widać na wykresach, dla niewielkiej ilości węzłów interpolacja wielomianowa działa dobrze. Niestety przy większej ilości węzłów zaczyna zawodzić. Obserwujemy w ten sposób efekt Rungego. Interpolacja trygonometryczna natomiast, dla badanych ilości węzłów sprawdza się bardzo dobrze.
